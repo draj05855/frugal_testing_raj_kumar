@@ -1,0 +1,15 @@
+{
+  "name": "registration-system",
+  "version": "1.0.0",
+  "description": "Intelligent Registration Form with Cypress Automation",
+  "scripts": {
+    "serve": "npx http-server -c-1 -p 5500",
+    "start-server": "node server/server.js",
+    "cypress:open": "npx cypress open",
+    "cypress:run": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0",
+    "http-server": "^14.1.1"
+  }
+}
