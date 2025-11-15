@@ -186,4 +186,3 @@ pay attention to the port number (default: 5500).
 
 Developed as part of a software testing and automation assessment. Includes modern UI, clear validation rules, and strong automation coverage.
 
-If you want, this README can be exported as PDF or styled further.
